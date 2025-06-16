@@ -1,6 +1,10 @@
-Download SFML from the official website
-Extract the downloaded SFML folder.
-Inside the project directory, go to the folder named exclude. If it does not exist, create a new folder and name it exclude.
+SFML Setup:
+Open your browser and go to the SFML official download page.
+Scroll to the Download SFML section. 
+After downloading the .zip file, extract it anywhere on your computer.
+Go to your game project folder. 
+Their is a folder named exclude. 
+Inside that folder create a folder (include).
 Inside the exclude folder, create another folder named SFML.
-Copy all contents from the extracted SFML folder and paste them inside the exclude folder.
-Open the project by double-clicking on Game.sln.
+Copy the entire contents of the extracted SFML folder (this includes folders like bin, include, lib, and so on) into the exclude/include/SFML folder.
+or u can completely copy the SFML extracted folder to exclude/include folder
