@@ -1,0 +1,189 @@
+﻿  main.cpp
+C:\Users\wasiq_8zzf007\Desktop\242230_242228_242198_Final Project\Final File\g1\Bullet.h(15,23): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\wasiq_8zzf007\Desktop\242230_242228_242198_Final Project\Final File\g1\player.h(33,25): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\wasiq_8zzf007\Desktop\242230_242228_242198_Final Project\Final File\g1\player.h(33,22): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\wasiq_8zzf007\Desktop\242230_242228_242198_Final Project\Final File\g1\player.h(71,38): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\wasiq_8zzf007\Desktop\242230_242228_242198_Final Project\Final File\g1\player.h(74,35): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\wasiq_8zzf007\Desktop\242230_242228_242198_Final Project\Final File\g1\player.h(77,37): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\wasiq_8zzf007\Desktop\242230_242228_242198_Final Project\Final File\g1\player.h(80,41): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\wasiq_8zzf007\Desktop\242230_242228_242198_Final Project\Final File\g1\enemy.h(150,23): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\wasiq_8zzf007\Desktop\242230_242228_242198_Final Project\Final File\g1\enemy.h(151,20): warning C4305: 'initializing': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\wasiq_8zzf007\Desktop\242230_242228_242198_Final Project\Final File\g1\enemy.h(402,69): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\wasiq_8zzf007\Desktop\242230_242228_242198_Final Project\Final File\g1\level.h(64,37): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\wasiq_8zzf007\Desktop\242230_242228_242198_Final Project\Final File\g1\level.h(69,33): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\wasiq_8zzf007\Desktop\242230_242228_242198_Final Project\Final File\g1\level.h(74,57): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\wasiq_8zzf007\Desktop\242230_242228_242198_Final Project\Final File\g1\level.h(74,33): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\wasiq_8zzf007\Desktop\242230_242228_242198_Final Project\Final File\g1\level.h(79,51): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\wasiq_8zzf007\Desktop\242230_242228_242198_Final Project\Final File\g1\level.h(79,33): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\wasiq_8zzf007\Desktop\242230_242228_242198_Final Project\Final File\g1\level.h(107,35): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\wasiq_8zzf007\Desktop\242230_242228_242198_Final Project\Final File\g1\level.h(115,48): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\wasiq_8zzf007\Desktop\242230_242228_242198_Final Project\Final File\g1\level.h(115,35): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\wasiq_8zzf007\Desktop\242230_242228_242198_Final Project\Final File\g1\level.h(116,49): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\wasiq_8zzf007\Desktop\242230_242228_242198_Final Project\Final File\g1\level.h(116,35): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\wasiq_8zzf007\Desktop\242230_242228_242198_Final Project\Final File\g1\level.h(139,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\wasiq_8zzf007\Desktop\242230_242228_242198_Final Project\Final File\g1\level.h(160,77): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\wasiq_8zzf007\Desktop\242230_242228_242198_Final Project\Final File\g1\level.h(160,33): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\wasiq_8zzf007\Desktop\242230_242228_242198_Final Project\Final File\g1\level.h(161,77): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\wasiq_8zzf007\Desktop\242230_242228_242198_Final Project\Final File\g1\level.h(161,33): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\wasiq_8zzf007\Desktop\242230_242228_242198_Final Project\Final File\g1\level.h(165,112): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\wasiq_8zzf007\Desktop\242230_242228_242198_Final Project\Final File\g1\level.h(165,33): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\wasiq_8zzf007\Desktop\242230_242228_242198_Final Project\Final File\g1\level.h(166,112): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\wasiq_8zzf007\Desktop\242230_242228_242198_Final Project\Final File\g1\level.h(166,33): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\wasiq_8zzf007\Desktop\242230_242228_242198_Final Project\Final File\g1\level.h(210,52): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\wasiq_8zzf007\Desktop\242230_242228_242198_Final Project\Final File\g1\level.h(210,34): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\wasiq_8zzf007\Desktop\242230_242228_242198_Final Project\Final File\g1\level.h(251,48): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\wasiq_8zzf007\Desktop\242230_242228_242198_Final Project\Final File\g1\level.h(251,35): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\wasiq_8zzf007\Desktop\242230_242228_242198_Final Project\Final File\g1\level.h(252,49): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\wasiq_8zzf007\Desktop\242230_242228_242198_Final Project\Final File\g1\level.h(252,35): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\wasiq_8zzf007\Desktop\242230_242228_242198_Final Project\Final File\g1\level.h(263,18): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\wasiq_8zzf007\Desktop\242230_242228_242198_Final Project\Final File\g1\level.h(285,67): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\wasiq_8zzf007\Desktop\242230_242228_242198_Final Project\Final File\g1\level.h(285,35): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\wasiq_8zzf007\Desktop\242230_242228_242198_Final Project\Final File\g1\level.h(292,102): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\wasiq_8zzf007\Desktop\242230_242228_242198_Final Project\Final File\g1\level.h(292,35): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\wasiq_8zzf007\Desktop\242230_242228_242198_Final Project\Final File\g1\HighScore.h(194,29): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\wasiq_8zzf007\Desktop\242230_242228_242198_Final Project\Final File\g1\HighScore.h(209,30): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\wasiq_8zzf007\Desktop\242230_242228_242198_Final Project\Final File\g1\game.h(225,39): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\wasiq_8zzf007\Desktop\242230_242228_242198_Final Project\Final File\g1\game.h(230,11): warning C4305: '=': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\wasiq_8zzf007\Desktop\242230_242228_242198_Final Project\Final File\g1\game.h(279,17): warning C4244: 'initializing': conversion from 'T' to 'float', possible loss of data
+C:\Users\wasiq_8zzf007\Desktop\242230_242228_242198_Final Project\Final File\g1\game.h(279,17): warning C4244:         with
+C:\Users\wasiq_8zzf007\Desktop\242230_242228_242198_Final Project\Final File\g1\game.h(279,17): warning C4244:         [
+C:\Users\wasiq_8zzf007\Desktop\242230_242228_242198_Final Project\Final File\g1\game.h(279,17): warning C4244:             T=unsigned int
+C:\Users\wasiq_8zzf007\Desktop\242230_242228_242198_Final Project\Final File\g1\game.h(279,17): warning C4244:         ]
+  (compiling source file 'main.cpp')
+  
+C:\Users\wasiq_8zzf007\Desktop\242230_242228_242198_Final Project\Final File\g1\game.h(280,17): warning C4244: 'initializing': conversion from 'T' to 'float', possible loss of data
+C:\Users\wasiq_8zzf007\Desktop\242230_242228_242198_Final Project\Final File\g1\game.h(280,17): warning C4244:         with
+C:\Users\wasiq_8zzf007\Desktop\242230_242228_242198_Final Project\Final File\g1\game.h(280,17): warning C4244:         [
+C:\Users\wasiq_8zzf007\Desktop\242230_242228_242198_Final Project\Final File\g1\game.h(280,17): warning C4244:             T=unsigned int
+C:\Users\wasiq_8zzf007\Desktop\242230_242228_242198_Final Project\Final File\g1\game.h(280,17): warning C4244:         ]
+  (compiling source file 'main.cpp')
+  
+C:\Users\wasiq_8zzf007\Desktop\242230_242228_242198_Final Project\Final File\g1\game.h(281,17): warning C4244: 'initializing': conversion from 'T' to 'float', possible loss of data
+C:\Users\wasiq_8zzf007\Desktop\242230_242228_242198_Final Project\Final File\g1\game.h(281,17): warning C4244:         with
+C:\Users\wasiq_8zzf007\Desktop\242230_242228_242198_Final Project\Final File\g1\game.h(281,17): warning C4244:         [
+C:\Users\wasiq_8zzf007\Desktop\242230_242228_242198_Final Project\Final File\g1\game.h(281,17): warning C4244:             T=unsigned int
+C:\Users\wasiq_8zzf007\Desktop\242230_242228_242198_Final Project\Final File\g1\game.h(281,17): warning C4244:         ]
+  (compiling source file 'main.cpp')
+  
+C:\Users\wasiq_8zzf007\Desktop\242230_242228_242198_Final Project\Final File\g1\game.h(282,17): warning C4244: 'initializing': conversion from 'T' to 'float', possible loss of data
+C:\Users\wasiq_8zzf007\Desktop\242230_242228_242198_Final Project\Final File\g1\game.h(282,17): warning C4244:         with
+C:\Users\wasiq_8zzf007\Desktop\242230_242228_242198_Final Project\Final File\g1\game.h(282,17): warning C4244:         [
+C:\Users\wasiq_8zzf007\Desktop\242230_242228_242198_Final Project\Final File\g1\game.h(282,17): warning C4244:             T=unsigned int
+C:\Users\wasiq_8zzf007\Desktop\242230_242228_242198_Final Project\Final File\g1\game.h(282,17): warning C4244:         ]
+  (compiling source file 'main.cpp')
+  
+C:\Users\wasiq_8zzf007\Desktop\242230_242228_242198_Final Project\Final File\g1\game.h(664,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\wasiq_8zzf007\Desktop\242230_242228_242198_Final Project\Final File\g1\game.h(820,37): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\wasiq_8zzf007\Desktop\242230_242228_242198_Final Project\Final File\g1\game.h(924,41): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\wasiq_8zzf007\Desktop\242230_242228_242198_Final Project\Final File\g1\game.h(924,26): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\wasiq_8zzf007\Desktop\242230_242228_242198_Final Project\Final File\g1\game.h(970,46): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\wasiq_8zzf007\Desktop\242230_242228_242198_Final Project\Final File\g1\game.h(1008,20): warning C4305: 'argument': truncation from 'double' to 'float'
+  (compiling source file 'main.cpp')
+  
+C:\Users\wasiq_8zzf007\Desktop\242230_242228_242198_Final Project\Final File\g1\game.h(1263,57): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+C:\Users\wasiq_8zzf007\Desktop\242230_242228_242198_Final Project\Final File\g1\game.h(1263,38): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+  g1.vcxproj -> C:\Users\wasiq_8zzf007\Desktop\242230_242228_242198_Final Project\Final File\x64\Debug\g1.exe
