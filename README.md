@@ -4,8 +4,9 @@ Scroll to the Download SFML section.
 After downloading the .zip file, extract it anywhere on your computer.
 Go to your game project folder.
 Their is a folder named exclude.
+Inside that folder create a folder (include).
 Inside the exclude folder, create another folder named SFML.
-Copy the entire contents of the extracted SFML folder (this includes folders like bin, include, lib, and so on) into the exclude/SFML folder.
+Copy the entire contents of the extracted SFML folder (this includes folders like bin, include, lib, and so on) into the exclude/include/SFML folder.
 
 
 
@@ -46,24 +47,7 @@ Move Right	Right Arrow
 Move Up	Up Arrow
 Move Down	Down Arrow
 
-5. Project Structure
-pgsql
-Copy
-Edit
-Chicken_Invaders_Space_Shooter/
-├── exclude/
-│   └── SFML/          → Contains SFML library (include, lib, bin)
-├── g1/
-│   ├── main.cpp       → Game loop and initialization
-│   ├── player.h       → Player ship logic
-│   ├── enemy.h        → Enemy classes and logic
-│   ├── level.h        → Level system
-│   ├── game.h         → Core game logic
-│   ├── menu.h         → Main menu and UI
-│   ├── lives.h        → Life tracking system
-├── Game.sln           → Visual Studio solution file
-└── README.md          → Project overview and setup instructions
-6. Assets
+5. Assets
 Images:
 Spaceship, background, enemies (chicken, monster, boss), explosions
 
