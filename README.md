@@ -1,16 +1,3 @@
-SFML Setup 
-Open your browser and go to the SFML official download page:
-Scroll to the Download SFML section.
-After downloading the .zip file, extract it anywhere on your computer.
-Go to your game project folder.
-Their is a folder named exclude.
-Inside that folder create a folder (include).
-Inside the exclude folder, create another folder named SFML.
-Copy the entire contents of the extracted SFML folder (this includes folders like bin, include, lib, and so on) into the exclude/include/SFML folder.
-
-
-
-Game Project Documentation
 Title: Chicken Invaders – Space Shooter
 Platform: Windows
 Language: C++
@@ -41,11 +28,11 @@ Background music and sound effects
 Shake effect on hit
 
 4. Game Controls
-Action	Key
-Move Left	Left Arrow
-Move Right	Right Arrow
-Move Up	Up Arrow
-Move Down	Down Arrow
+Action	    Key
+Move Left	  Left Arrow
+Move Right 	Right Arrow
+Move Up	    Up Arrow
+Move Down	  Down Arrow
 
 5. Assets
 Images:
